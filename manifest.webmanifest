@@ -1,0 +1,9 @@
+{
+  "name": "피코와 나눈 대화",
+  "short_name": "피코 대화",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f3",
+  "theme_color": "#3d8b4d"
+}
